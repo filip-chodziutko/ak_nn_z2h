@@ -2,3 +2,4 @@ numpy
 matplotlib
 sklearn
 graphviz
+torch
